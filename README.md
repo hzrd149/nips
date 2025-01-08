@@ -177,6 +177,7 @@ They exist to document what may be implemented by [Nostr](https://github.com/nos
 | `10050`       | Relay list to receive DMs       | [51](51.md), [17](17.md)               |
 | `10063`       | User server list                | [Blossom][blossom]                     |
 | `10096`       | File storage server list        | [96](96.md)                            |
+| `10169`       | Reaction images list            | [169](169.md)                          |
 | `13194`       | Wallet Info                     | [47](47.md)                            |
 | `21000`       | Lightning Pub RPC               | [Lightning.Pub][lnpub]                 |
 | `22242`       | Client Authentication           | [42](42.md)                            |
@@ -206,6 +207,7 @@ They exist to document what may be implemented by [Nostr](https://github.com/nos
 | `30041`       | Modular Article Content         | [NKBIP-01]                             |
 | `30063`       | Release artifact sets           | [51](51.md)                            |
 | `30078`       | Application-specific Data       | [78](78.md)                            |
+| `30169`       | Reaction images sets            | [169](169.md)                          |
 | `30311`       | Live Event                      | [53](53.md)                            |
 | `30315`       | User Statuses                   | [38](38.md)                            |
 | `30388`       | Slide Set                       | [Corny Chat][cornychat-slideset]       |
